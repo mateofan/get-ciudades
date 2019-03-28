@@ -1,0 +1,31 @@
+[{
+    "id": 1,
+    "Ciudad": "Londres"
+}, {
+    "id": 2,
+    "Ciudad": "Seul"
+}, {
+    "id": 3,
+    "Ciudad": "Pekin"
+}, {
+    "id": 4,
+    "Ciudad": "Shangai"
+}, {
+    "id": 5,
+    "Ciudad": "Oslo"
+}, {
+    "id": 6,
+    "Ciudad": "Moscu"
+}, {
+    "id": 7,
+    "Ciudad": "Sidney"
+}, {
+    "id": 8,
+    "Ciudad": "Praga"
+}, {
+    "id": 9,
+    "Ciudad": "Kiev"
+}, {
+    "id": 10,
+    "Ciudad": "Berlin"
+}]
